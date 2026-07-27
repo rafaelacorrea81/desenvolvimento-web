@@ -14,29 +14,29 @@ FREEMAN, Eric; FREEMAN, Elisabeth. **Use a Cabeça! HTML com CSS e XHTML**. 2. e
 
 ***
 
-### Referências Online
+### Bibliografia Online
 
 #### MDN Web Docs
 
-HTML é a tecnologia fundamental para estruturação de conteúdos na Web. 【1-6dbeb9】
+HTML é a tecnologia fundamental para estruturação de conteúdos na Web.
 
 * MDN HTML: [HTML: HyperText Markup Language](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 #### Referência de Elementos HTML
 
-Descrição dos principais elementos HTML, incluindo `html`, `head`, `title`, `body`, `header`, `nav`, `main`, `section`, `article` e `footer`. 【2-568d91】
+Descrição dos principais elementos HTML, incluindo `html`, `head`, `title`, `body`, `header`, `nav`, `main`, `section`, `article` e `footer`.
 
 * MDN HTML Elements Reference: [HTML Elements Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements)
 
 #### W3C
 
-A especificação HTML descreve a estrutura e a semântica dos elementos utilizados na construção de páginas Web. 【3-72037f】【4-229077】
+A especificação HTML descreve a estrutura e a semântica dos elementos utilizados na construção de páginas Web.
 
 * W3C HTML Specification: [HTML Specification](https://dev.w3.org/html5/spec-LC/semantics.html)
 
 #### Elementos Semânticos
 
-O elemento `<section>` representa um agrupamento temático de conteúdo, normalmente identificado por um título, enquanto `<article>` representa conteúdo independente e reutilizável. 【5-541df1】【2-568d91】
+O elemento `<section>` representa um agrupamento temático de conteúdo, normalmente identificado por um título, enquanto `<article>` representa conteúdo independente e reutilizável.
 
 * Guia de Elementos Semânticos: [HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
 
