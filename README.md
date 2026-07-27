@@ -2,7 +2,7 @@
 description: Bem-vindo(a) à Disciplina de Desenvolvimento Web
 icon: hand-wave
 ---
-
+Atualização de teste.
 # &#x20;Apresentação da Disciplina
 
 Seja bem-vindo(a) à disciplina **Desenvolvimento Web** do Curso Técnico em Multimídia.
