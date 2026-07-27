@@ -1,0 +1,19 @@
+title: Desenvolvimento Web
+description: Material didático da disciplina de Desenvolvimento Web — Curso Técnico em Multimídia — CEET Vasco Coutinho
+theme: just-the-docs
+color_scheme: light
+search_enabled: true
+nav_sort: case_insensitive
+
+aux_links:
+  "Repositório no GitHub":
+    - "https://github.com/rafaelacorrea81/desenvolvimento-web"
+
+back_to_top: true
+back_to_top_text: "Voltar ao topo"
+
+footer_content: "Disciplina de Desenvolvimento Web — Curso Técnico em Multimídia — CEET Vasco Coutinho"
+
+exclude:
+  - SUMMARY.md
+  - README.md
