@@ -1,4 +1,9 @@
 ---
+layout: default
+title: Unidade 01 - Introdução
+nav_order: 1
+---
+---
 description: Bem-vindo(a) à Disciplina de Desenvolvimento Web
 icon: hand-wave
 ---
@@ -171,6 +176,7 @@ Ao longo da disciplina, espera-se que cada estudante:
 ## Mensagem Final
 
 A Web é uma das tecnologias mais importantes da atualidade e continua em constante evolução.
+
 
 Esta disciplina será uma oportunidade para compreender como websites são criados e para desenvolver experiências digitais que possam gerar impacto real para usuários e organizações.
 
