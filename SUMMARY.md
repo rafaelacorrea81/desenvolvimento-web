@@ -19,9 +19,3 @@
 ## REFERÊNCIAS
 
 * [Referencias Unidade 1](referencias/referencias-unidade-1.md)
-
-## Reference
-
-* [Reference](reference/reference.md)
-* [Configuration](reference/configuration.md)
-* [Glossary](reference/glossary.md)
