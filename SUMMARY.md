@@ -10,10 +10,9 @@
 * [Aula 02 - Estrutura Básica de um Documento HTML](unidade-1-fundamentos-de-web-design/aula-02-estrutura-basica-de-um-documento-html.md)
 * [Aula 03 - Trabalhando com Textos, Listas e Links em HTML](unidade-1-fundamentos-de-web-design/aula-03-trabalhando-com-textos-listas-e-links-em-html.md)
 
-## Core concepts
+## REFERÊNCIAS
 
-* [Workspaces and projects](core-concepts/workspaces-and-projects.md)
-* [Permissions](core-concepts/permissions.md)
+* [Referencias Unidade 1](referencias/referencias-unidade-1.md)
 
 ## Guides
 
