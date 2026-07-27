@@ -12,9 +12,9 @@
 
 ## Gabaritos Aula 1, 2, 3
 
-* [Gabarito Aula 1](gabaritos-aula-1-2-3/guides.md)
-* [Gabarito Aula 2](gabaritos-aula-1-2-3/custom-domains.md)
-* [Gabarito Aula 3](gabaritos-aula-1-2-3/automations.md)
+* [Gabarito Aula 1](gabaritos-aula-1-2-3/gabarito-a1.md)
+* [Gabarito Aula 2](gabaritos-aula-1-2-3/gabarito-a2.md)
+* [Gabarito Aula 3](gabaritos-aula-1-2-3/gabarito-a3.md)
 
 ## REFERÊNCIAS
 
