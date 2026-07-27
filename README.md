@@ -1,9 +1,4 @@
 ---
-layout: default
-title: Unidade 01 - Introdução
-nav_order: 1
----
----
 description: Bem-vindo(a) à Disciplina de Desenvolvimento Web
 icon: hand-wave
 ---
