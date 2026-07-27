@@ -26,8 +26,3 @@
 * [Reference](reference/reference.md)
 * [Configuration](reference/configuration.md)
 * [Glossary](reference/glossary.md)
-
-***
-
-* [Apresentacao\_Disciplina\_Desenvolvimento\_Web\_Multimidia](apresentacao_disciplina_desenvolvimento_web_multimidia.md)
-* [Apresentacao\_Disciplina\_Desenvolvimento\_Web\_Multimidia](apresentacao_disciplina_desenvolvimento_web_multimidia-1.md)
