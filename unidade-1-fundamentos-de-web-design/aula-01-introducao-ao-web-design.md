@@ -1,5 +1,5 @@
 ---
-icon: rocket-launch
+icon: meteor
 ---
 
 # Aula 01 - Introdução ao Web Design

@@ -1,10 +1,10 @@
 ---
-icon: sitemap
+icon: book-open-reader
 ---
 
 # Referencias Unidade 1
 
-### Bibliografia Básica
+### <i class="fa-circle-book-open">:circle-book-open:</i> Bibliografia Básica
 
 COLLISON, Simon; MOLL, Cameron; BUDD, Andy. **Criando páginas Web com CSS**. Rio de Janeiro: Prentice Hall, 2010.
 
@@ -14,7 +14,7 @@ FREEMAN, Eric; FREEMAN, Elisabeth. **Use a Cabeça! HTML com CSS e XHTML**. 2. e
 
 ***
 
-### Bibliografia Online
+### <i class="fa-book-atlas">:book-atlas:</i> Bibliografia Online
 
 #### MDN Web Docs
 
